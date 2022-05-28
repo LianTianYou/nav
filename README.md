@@ -22,6 +22,7 @@
 - [GitHub下载加速](https://shrill-pond-3e81.hunsh.workers.dev/)
 - [阿里图标库 - Iconfont](https://www.iconfont.cn/)
 - [简单动漫](http://www.36dm.club/) | [生肉下载](https://www.tokyotosho.info/)
+- [鸠摩搜索（文档下载）](https://www.jiumodiary.com/)
 
 ### 笔记
 
@@ -40,7 +41,6 @@
 ### 编程相关
 
 - [编程导航](https://www.code-nav.cn)
-
 - [Road 2 Coding（博客）](https://www.r2coding.com/#/)
 - [codepen（前端编辑器）](https://codepen.io/pen/)
 - [正则表达式在线测试 - egex101](https://regex101.com/)
@@ -57,12 +57,9 @@
 ### 其他
 
 - [编程语言排行榜](https://www.hellogithub.com/report/tiobe/)
-
 - [万词王（反向词典）](https://wantwords.net/)
 - [打字练习单词](https://qwerty.liumingye.cn/)
-
 - [让我来帮你百度](https://mengkunsoft.github.io/lmbtfy/)
-
 - [坚果云收信箱](https://workspace.jianguoyun.com/inbox/collect/3b0557e5a0964d9d92c09d2f5dd9c140/submit)
 - [AGE动漫](https://www.agefans.net/)
 
@@ -70,9 +67,6 @@
 
 - [召唤神龙](https://www.mutegame.com/170/) | [无限扫雷](http://www.1000mines.com/) | [打字射击游戏](https://zty.pe/)
 
-### js代码：
-
-- [网页可视化编辑](javascript:document.body.contentEditable='true'; document.designMode='on'; void 0)
 ## 二、本地应用
 
 - 【WinMerge】文本差异化对比工具
