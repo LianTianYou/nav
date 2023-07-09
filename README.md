@@ -2,10 +2,6 @@
 
 ## 一、在线网页
 
-### 📚 学校相关
-
-- [智慧校园](http://sso.cqcet.edu.cn/login) | [教务系统](https://oaa.cqcet.edu.cn/xxfw/jwxt.htm) | [学习通](http://i.chaoxing.com)
-
 ### 📋 信息查阅
 
 - [语雀（个人主页）](https://www.yuque.com/qaq-mdzz?tab=books)
